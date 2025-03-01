@@ -21,7 +21,7 @@
 
 2. Execute the provided loadstring below.
 ```luau
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AtTheZenith/LunarVape/main/loader.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/renderintent/LunarVape/main/loader.lua", true))()
 ```
 
 3. Wait until a notification appears indicating Lunar Vale has loaded.
